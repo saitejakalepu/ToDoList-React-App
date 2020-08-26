@@ -1,0 +1,65 @@
+.list{
+    color: #fff;
+    width: 300px;
+    margin: 20px auto;
+    height: 60px;
+    background-color:#8566aa;
+    border-radius: 10px;
+}
+.list p{
+    padding: 10px;
+    position: relative;
+    transition: ease-in-out;
+}
+.list p input{
+    background-color: transparent;
+    border: none;
+    margin-left: 0px;
+    color : white;
+    font-size: 18px;
+    font-weight: bold;
+   
+}
+.list p input:focus{
+    outline: none;
+}
+.list p span{
+    position: absolute;
+    right: 10px;
+}
+.fadelete{
+    margin: 5px 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    color: black;
+}
+.fadelete:hover{
+    color : white;
+}
+
+.faedit{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    color: black;
+}
+.faedit:hover{
+    color: white;
+}
+
+.itemsAnim-enter{
+    opacity: 0.01;
+}
+.itemsAnim-enter .itemsAnim-enter-active{
+    opacity: 1;
+    transition: opacity 300ms ease-in
+}
+.itemsAnim-leave{
+    opacity: 1;
+}
+.itemsAnim-leave .itemsAnim-leave-active{
+    opacity: 0.01;
+    transition: opacity 300ms ease-in
+}
