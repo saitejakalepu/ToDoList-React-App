@@ -1,4 +1,4 @@
-## To-Do-App-in-React-code
+## To-Do-App-in-React
 
 This is a simple To Do Application in react.
 This project includes  1) Adding new item to the list.
@@ -26,5 +26,5 @@ git remote add origin https://github.com/saitejababu/ToDoList-React-App.git
 
 npm run deploy
 
-## The published To-do App:
+## Published at:
 https://saitejababu.github.io/ToDoList-React-App/
