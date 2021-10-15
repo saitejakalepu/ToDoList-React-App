@@ -6,6 +6,10 @@ This project includes:
 <li>Deleting an existing item from the list.</li>
 <li>Editing an existing item in the list.</li>
 
+## Published at:
+https://saitejakalepu.github.io/ToDoList-React-App/
+
+
 ## Commands used to install Font awesome:
 $ npm i --save @fortawesome/fontawesome-svg-core
 
@@ -27,5 +31,3 @@ git remote add origin https://github.com/saitejababu/ToDoList-React-App.git
 
 npm run deploy
 
-## Published at:
-https://saitejakalepu.github.io/ToDoList-React-App/
