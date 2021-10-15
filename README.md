@@ -1,9 +1,10 @@
 ## To-Do-App-in-React
 
-This is a simple To Do Application in react.
-This project includes  1) Adding new item to the list.
-                       2) Deleting an item from the list.
-                       3) Editing item in the list.
+To Do Application designed using react.
+This project includes:
+<li>Adding new item to the list.</li>
+<li>Deleting an existing item from the list.</li>
+<li>Editing an existing item in the list.</li>
 
 ## Commands used to install Font awesome:
 $ npm i --save @fortawesome/fontawesome-svg-core
