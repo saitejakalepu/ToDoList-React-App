@@ -1,6 +1,6 @@
 ## To-Do-App-in-React
 
-To Do Application designed using react.
+To Do Application designed using react.<br/>
 This project includes:
 <li>Adding new item to the list.</li>
 <li>Deleting an existing item from the list.</li>
